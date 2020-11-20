@@ -35,9 +35,9 @@ body, html{
     color: purple;
     font-weight: bolder;
     font-size: 80px;
-    position: absolute;
+    position: fixed;
     top: 50%;
-    z-index: 2;
+    z-index: 1;
     width: 100%;
     padding: 20px;
     text-align: center;
